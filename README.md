@@ -20,6 +20,7 @@
   <img align="center" alt="FastAPI" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img align="center" alt="Node" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Express" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img align="center" alt="Bootstrap" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
           
  <br> <br>
   </div>
